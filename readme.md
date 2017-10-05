@@ -58,7 +58,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 - The code can be imported from Acme folder.
 ```sh
-import "github.com/remichautemps/movie-recommendations/app/Acme"
+import "github.com/remichautemps/movie-recommendations/tree/master/app/Acme"
 ```
 
 ### Testing
