@@ -38,7 +38,7 @@ app
 
 ### Installation
 
-- Clone the reposirory
+- Clone the repository
 - Run composer install
 - Start the server
 
